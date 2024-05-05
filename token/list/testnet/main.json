@@ -25,20 +25,6 @@
       "chainId": 355113,
       "decimals": 18,
       "logoURI": "/images/coins/CHAP.png"
-    },
-    {
-      "name": "Calpha Token",
-      "symbol": "CAL",
-      "address": "0xaFD885e805B78C13DF22118695ef3F4dc582656D",
-      "chainId": 355113,
-      "decimals": 18
-    },
-    {
-      "name": "Cyanara Token",
-      "symbol": "CYN",
-      "address": "0x1bBB2533Dcd95D7E347bC278c5b6398b5f7c83EC",
-      "chainId": 355113,
-      "decimals": 18
     }
    
 
