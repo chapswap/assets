@@ -18,7 +18,14 @@
       "decimals": 18,
       "logoURI": "/images/coins/BFT.png"
     },
-  
+      {
+      "name": "ChapSwap Token",
+      "symbol": "CHAP",
+      "address": "0x9581aa53E089F4E8f0B3c566f00121DF7c83c83B",
+      "chainId": 355113,
+      "decimals": 18,
+      "logoURI": "/images/coins/CHAP.png"
+    },
     {
       "name": "Calpha Token",
       "symbol": "CAL",
@@ -32,35 +39,8 @@
       "address": "0x1bBB2533Dcd95D7E347bC278c5b6398b5f7c83EC",
       "chainId": 355113,
       "decimals": 18
-    },
-    {
-      "name": "Cavara Token",
-      "symbol": "CVA",
-      "address": "0x42AbC7B10224E2e7Ea721FC5e002BAe561BA6659",
-      "chainId": 355113,
-      "decimals": 18
-    },
-    {
-      "name": "Coderer Token",
-      "symbol": "COD",
-      "address": "0xc489778CD7DB9427a730F30BD66a57762DE96628",
-      "chainId": 355113,
-      "decimals": 18
-    },
-    {
-      "name": "Internat Token",
-      "symbol": "INT",
-      "address": "0xa9449C8E42D5D49a2B5031A843747B342816dC13",
-      "chainId": 355113,
-      "decimals": 18
-    },
-    {
-      "name": "Test USD",
-      "symbol": "tUSDT",
-      "address": "0xbd9A5c1d9fBbBEC84633ec9Cb046C01fB79809f2",
-      "chainId": 355113,
-      "decimals": 18
     }
+   
 
   ]
 }
