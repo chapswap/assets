@@ -18,14 +18,7 @@
       "decimals": 18,
       "logoURI": "/images/coins/BFT.png"
     },
-    {
-      "name": "ChapSwap Token",
-      "symbol": "CHAP",
-      "address": "0x9581aa53E089F4E8f0B3c566f00121DF7c83c83B",
-      "chainId": 355113,
-      "decimals": 18,
-      "logoURI": "/images/coins/CHAP.png"
-    },
+  
     {
       "name": "Calpha Token",
       "symbol": "CAL",
