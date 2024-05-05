@@ -1,5 +1,5 @@
 {
-  "name": "M",
+  "name": "Mozart Finance Default List",
   "timestamp": "2021-04-01T09:56:23Z",
   "version": {
     "major": 1,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  
+  "logoURI": "/images/coins/BFT.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -15,15 +15,16 @@
       "symbol": "WBFT",
       "address": "0x7938ACd297d53bD743c3926E3C24e7262C18AEc3",
       "chainId": 355113,
-      "decimals": 18
-      
+      "decimals": 18,
+      "logoURI": "/images/coins/BFT.png"
     },
     {
       "name": "ChapSwap Token",
       "symbol": "CHAP",
       "address": "0x9581aa53E089F4E8f0B3c566f00121DF7c83c83B",
       "chainId": 355113,
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "/images/coins/CHAP.png"
     },
     {
       "name": "Calpha Token",
