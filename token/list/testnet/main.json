@@ -1,14 +1,3 @@
-{
-  "name": "Mozart Finance Default List",
-  "timestamp": "2021-04-01T09:56:23Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "/images/coins/BFT.png",
-  "keywords": ["pancake", "default"],
   "tokens": [
     {
       "name": "WBFT Token",
