@@ -67,6 +67,13 @@
       "address": "0xbd9A5c1d9fBbBEC84633ec9Cb046C01fB79809f2",
       "chainId": 355113,
       "decimals": 18
+    },
+    {
+      "name": "Fair NS",
+      "symbol": "FNS",
+      "address": "0xD89E302C8ac7AbAa4eC6016961e04692cccb6039",
+      "chainId": 355113,
+      "decimals": 18
     }
 
   ]
