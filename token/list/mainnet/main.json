@@ -13,7 +13,7 @@
     {
       "name": "WBFT Token",
       "symbol": "WBFT",
-      "address": "0xa40b978a9F6650bC654f475FA73D83d2B9AdDb74",
+      "address": "0xb13165e520C38D7bCBd27325584ee4C425E32b9F",
       "chainId": 355110,
       "decimals": 18,
       "logoURI": "/images/coins/BFT.png"
