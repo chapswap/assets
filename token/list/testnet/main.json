@@ -74,6 +74,13 @@
       "address": "0xD89E302C8ac7AbAa4eC6016961e04692cccb6039",
       "chainId": 355113,
       "decimals": 18
+    },
+    {
+      "name": "Reward Chap",
+      "symbol": "RCHAP",
+      "address": "0x7EcaaCA6eB73beeBCc2595dE864410dC50567B7F",
+      "chainId": 355113,
+      "decimals": 18
     }
 
   ]
