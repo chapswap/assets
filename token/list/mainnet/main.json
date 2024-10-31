@@ -8,25 +8,52 @@
   },
   "tags": {},
   "logoURI": "/images/coins/BFT.png",
-  "keywords": ["pancake", "default"],
+  "keywords": ["chap", "default"],
   "tokens": [
     {
       "name": "WBFT Token",
       "symbol": "WBFT",
-      "address": "0xb13165e520C38D7bCBd27325584ee4C425E32b9F",
+      "address": "0x4B6bcCA9a8D707DaCA69485d14836779AeD947E5",
       "chainId": 355110,
       "decimals": 18,
       "logoURI": "/images/coins/BFT.png"
     },
     {
-      "name": "Token S",
-      "symbol": "TNS",
-      "address": "0x9581aa53E089F4E8f0B3c566f00121DF7c83c83B",
+      "name": "Chapswap Token",
+      "symbol": "CHAPX",
+      "address": "0xb37B60166AC1677a50D0ef158541c441bFf3D09A",
       "chainId": 355110,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "/images/coins/CHAP.png"
+    },
+    {
+      "name": "Internet Computer",
+      "symbol": "ICP",
+      "address": "0x51cCdE9Ca75d95BB55eCe1775fCBFF91324B18A6",
+      "chainId": 355110,
+      "decimals": 8
+    },
+    {
+      "name": "Chainkey Bitcoin",
+      "symbol": "ckBTC",
+      "address": "0x56bF74Ef5d4aD161D2D8D5d576E70108F152Cd35",
+      "chainId": 355110,
+      "decimals": 8
+    },
+    {
+      "name": "Chainkey  USDC",
+      "symbol": "ckUSDC",
+      "address": "0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299",
+      "chainId": 355110,
+      "decimals": 8
+    },
+    {
+      "name": "neuron ICP",
+      "symbol": "nICP",
+      "address": "0x2a78a5f819393105a54f21adeb4a8b68c5030b02",
+      "chainId": 355110,
+      "decimals": 8
     }
 
   ]
 }
-
