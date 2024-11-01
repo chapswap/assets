@@ -46,13 +46,6 @@
       "address": "0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299",
       "chainId": 355110,
       "decimals": 8
-    },
-    {
-      "name": "neuron ICP",
-      "symbol": "nICP",
-      "address": "0x2a78a5f819393105a54f21adeb4a8b68c5030b02",
-      "chainId": 355110,
-      "decimals": 8
     }
 
   ]
