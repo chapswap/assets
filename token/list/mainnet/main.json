@@ -45,7 +45,7 @@
       "symbol": "ckUSDC",
       "address": "0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299",
       "chainId": 355110,
-      "decimals": 8
+      "decimals": 6
     }
 
   ]
