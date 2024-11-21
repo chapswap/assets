@@ -46,6 +46,13 @@
       "address": "0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299",
       "chainId": 355110,
       "decimals": 6
+    },
+    {
+      "name": "BOB",
+      "symbol": "BOB",
+      "address": "0xa5196821BEE6bdf2E5bDC7B70E513618670B923A",
+      "chainId": 355110,
+      "decimals": 8
     }
 
   ]
